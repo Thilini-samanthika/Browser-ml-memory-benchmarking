@@ -1,0 +1,3 @@
+Runtime,Mean_Latency,Std_Latency,Mean_Heap_MB,Max_Heap_MB,Min_Heap_MB
+ONNX Runtime (WASM),0.3168,0.2832277846151009,25.10564,59.69,16.39
+TensorFlow.js (WebGL),7.044,2.066149310425791,22.10664,44.52,11.83
